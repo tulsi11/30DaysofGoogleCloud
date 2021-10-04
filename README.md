@@ -16,23 +16,23 @@
 
 ### * Track 1: Cloud Engineering Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
-    - [ ] A Tour of Qwiklabs and Google Cloud
-    - [ ] Creating a Virtual Machine
-    - [ ] Getting Started with Cloud Shell and gcloud
-    - [ ] Kubernetes Engine: Qwik Start
-    - [ ] Set Up Network and HTTP Load Balancers
-    - [ ] Create and Manage Cloud Resources: Challenge Lab
-- [ ] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
-    - [ ] Cloud Storage Qwik Start - Cloud Console
-    - [ ] Cloud IAM: Qwik Start
-    - [ ] Cloud Monitoring: Qwik Start
-    - [ ] Cloud Functions: Qwik Start - Console
-    - [ ] Google Cloud Pub/Sub: Qwik Start - Console
-    - [ ] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
+- [X] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
+    - [X] A Tour of Qwiklabs and Google Cloud
+    - [X] Creating a Virtual Machine
+    - [X] Getting Started with Cloud Shell and gcloud
+    - [X] Kubernetes Engine: Qwik Start
+    - [X] Set Up Network and HTTP Load Balancers
+    - [X] Create and Manage Cloud Resources: Challenge Lab
+- [X] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
+    - [X] Cloud Storage Qwik Start - Cloud Console
+    - [X] Cloud IAM: Qwik Start
+    - [X] Cloud Monitoring: Qwik Start
+    - [X] Cloud Functions: Qwik Start - Console
+    - [X] Google Cloud Pub/Sub: Qwik Start - Console
+    - [X] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
 - [ ] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
-    - [ ] Cloud IAM: Qwik Start
-    - [ ] Introduction to SQL for BigQuery and Cloud SQL
+    - [X] Cloud IAM: Qwik Start
+    - [X] Introduction to SQL for BigQuery and Cloud SQL
     - [ ] Multiple VPC Networks
     - [ ] Cloud Monitoring: Qwik Start
     - [ ] Managing Deployments Using Kubernetes Engine
