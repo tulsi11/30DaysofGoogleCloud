@@ -1,50 +1,50 @@
 ### * Track 2: Data Science and Machine Learning Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
-    - [ ] A Tour of Qwiklabs and Google Cloud
-    - [ ] Creating a Virtual Machine
-    - [ ] Getting Started with Cloud Shell and gcloud
-    - [ ] Kubernetes Engine: Qwik Start
-    - [ ] Set Up Network and HTTP Load Balancers
-    - [ ] Create and Manage Cloud Resources: Challenge Lab
-- [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/117)
-    - [ ] AI Platform: Qwik Start
-    - [ ] Dataprep: Qwik Start
-    - [ ] Dataflow: Qwik Start - Templates
-    - [ ] Dataproc: Qwik Start - Console
-    - [ ] Cloud Natural Language API: Qwik Start
-    - [ ] Google Cloud Speech API: Qwik Start
-    - [ ] Video Intelligence: Qwik Start
-    - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud: Challenge Lab
-- [ ] Insights from Data with BigQuery: [link](https://google.qwiklabs.com/quests/123)
-    - [ ] Introduction to SQL for BigQuery and Cloud SQL
-    - [ ] BigQuery: Qwik Start - Console
-    - [ ] Exploring Your Ecommerce Dataset with SQL in Google BigQuery
-    - [ ] Troubleshooting Common SQL Errors with BigQuery
-    - [ ] Explore and Create Reports with Data Studio
-    - [ ] Insights from Data with BigQuery: Challenge Lab
-- [ ] Engineer data in Google Cloud: [link](https://google.qwiklabs.com/quests/132)
-    - [ ] Creating a Data Transformation Pipeline with Cloud Dataprep
-    - [ ] Building an IoT Analytics Pipeline on Google Cloud
-    - [ ] ETL Processing on Google Cloud Using Dataflow and BigQuery
-    - [ ] Predict Visitor Purchases with a Classification Model in BQML
-    - [ ] Predict Housing Prices with Tensorflow and AI Platform
-    - [ ] Cloud Composer: Copying BigQuery Tables Across Different Locations
-    - [ ] Engineer Data in Google Cloud: Challenge Lab
-- [ ] Integrate with Machine Learning APIs: [link](https://google.qwiklabs.com/quests/136)
-    - [ ] Introduction to APIs in Google
-    - [ ] Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
-    - [ ] Classify Text into Categories with the Natural Language API
-    - [ ] Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
-    - [ ] Entity and Sentiment Analysis with the Natural Language API
-    - [ ] Awwvision: Cloud Vision API from a Kubernetes Cluster
-    - [ ] Integrate with Machine Learning APIs: Challenge Lab
-- [ ] Explore Machine Learning Models with Explainable AI: [link](https://google.qwiklabs.com/quests/126)
-    - [ ] What is the What-If Tool?
-    - [ ] Getting Started with the What-If Tool
-    - [ ] AI Platform: Qwik Start
-    - [ ] Using the What-If Tool with Image Recognition Models
-    - [ ] Using the What-if Tool Performance & Fairness Features
-    - [ ] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
-    - [ ] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
-    - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
+- [X] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
+    - [X] A Tour of Qwiklabs and Google Cloud
+    - [X] Creating a Virtual Machine
+    - [X] Getting Started with Cloud Shell and gcloud
+    - [X] Kubernetes Engine: Qwik Start
+    - [X] Set Up Network and HTTP Load Balancers
+    - [X] Create and Manage Cloud Resources: Challenge Lab
+- [X] Perform Foundational Data, ML and AI Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/117)
+    - [X] AI Platform: Qwik Start
+    - [X] Dataprep: Qwik Start
+    - [X] Dataflow: Qwik Start - Templates
+    - [X] Dataproc: Qwik Start - Console
+    - [X] Cloud Natural Language API: Qwik Start
+    - [X] Google Cloud Speech API: Qwik Start
+    - [X] Video Intelligence: Qwik Start
+    - [X] Perform Foundational Data, ML and AI Tasks in Google Cloud: Challenge Lab
+- [X] Insights from Data with BigQuery: [link](https://google.qwiklabs.com/quests/123)
+    - [X] Introduction to SQL for BigQuery and Cloud SQL
+    - [X] BigQuery: Qwik Start - Console
+    - [X] Exploring Your Ecommerce Dataset with SQL in Google BigQuery
+    - [X] Troubleshooting Common SQL Errors with BigQuery
+    - [X] Explore and Create Reports with Data Studio
+    - [X] Insights from Data with BigQuery: Challenge Lab
+- [X] Engineer data in Google Cloud: [link](https://google.qwiklabs.com/quests/132)
+    - [X] Creating a Data Transformation Pipeline with Cloud Dataprep
+    - [X] Building an IoT Analytics Pipeline on Google Cloud
+    - [X] ETL Processing on Google Cloud Using Dataflow and BigQuery
+    - [X] Predict Visitor Purchases with a Classification Model in BQML
+    - [X] Predict Housing Prices with Tensorflow and AI Platform
+    - [X] Cloud Composer: Copying BigQuery Tables Across Different Locations
+    - [X] Engineer Data in Google Cloud: Challenge Lab
+- [X] Integrate with Machine Learning APIs: [link](https://google.qwiklabs.com/quests/136)
+    - [X] Introduction to APIs in Google
+    - [X] Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
+    - [X] Classify Text into Categories with the Natural Language API
+    - [X] Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
+    - [X] Entity and Sentiment Analysis with the Natural Language API
+    - [] Awwvision: Cloud Vision API from a Kubernetes Cluster
+    - [X] Integrate with Machine Learning APIs: Challenge Lab
+- [X] Explore Machine Learning Models with Explainable AI: [link](https://google.qwiklabs.com/quests/126)
+    - [X] What is the What-If Tool?
+    - [X] Getting Started with the What-If Tool
+    - [X] AI Platform: Qwik Start
+    - [X] Using the What-If Tool with Image Recognition Models
+    - [X] Using the What-if Tool Performance & Fairness Features
+    - [X] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
+    - [X] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
+    - [X] Explore Machine Learning Models with Explainable AI: Challenge Lab
