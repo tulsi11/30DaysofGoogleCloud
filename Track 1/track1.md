@@ -13,30 +13,30 @@
     - [X] Cloud Functions: Qwik Start - Console
     - [X] Google Cloud Pub/Sub: Qwik Start - Console
     - [X] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
-- [ ] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
+- [X] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
     - [X] Cloud IAM: Qwik Start
     - [X] Introduction to SQL for BigQuery and Cloud SQL
-    - [ ] Multiple VPC Networks
-    - [ ] Cloud Monitoring: Qwik Start
-    - [ ] Managing Deployments Using Kubernetes Engine
-    - [ ] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
-- [ ] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
-    - [ ] Orchestrating the Cloud with Kubernetes
-    - [ ] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
-    - [ ] Multiple VPC Networks
-    - [ ] Troubleshooting Workloads on GKE for Site Reliability Engineers
-    - [ ] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
-- [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
-    - [ ] User Authentication: Identity-Aware Proxy
-    - [ ] Multiple VPC Networks
-    - [ ] VPC Networks - Controlling Access
-    - [ ] HTTP Load Balancer with Cloud Armor
-    - [ ] Create an Internal Load Balancer
-    - [ ] Build and Secure Networks in Google Cloud: Challenge Lab
-- [ ] Deploy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
-    - [ ] Introduction to Docker
-    - [ ] Kubernetes Engine: Qwik Start
-    - [ ] Orchestrating the Cloud with Kubernetes
-    - [ ] Managing Deployments Using Kubernetes Engine
-    - [ ] Continuous Delivery with Jenkins in Kubernetes Engine
-    - [ ] Deploy to Kuberenetes in Google Cloud: Challenge Lab
+    - [X] Multiple VPC Networks
+    - [X] Cloud Monitoring: Qwik Start
+    - [X] Managing Deployments Using Kubernetes Engine
+    - [X] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
+- [X] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
+    - [X] Orchestrating the Cloud with Kubernetes
+    - [X] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
+    - [X] Multiple VPC Networks
+    - [X] Troubleshooting Workloads on GKE for Site Reliability Engineers
+    - [X] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
+- [X] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
+    - [X] User Authentication: Identity-Aware Proxy
+    - [X] Multiple VPC Networks
+    - [X] VPC Networks - Controlling Access
+    - [X] HTTP Load Balancer with Cloud Armor
+    - [X] Create an Internal Load Balancer
+    - [X] Build and Secure Networks in Google Cloud: Challenge Lab
+- [X] Deploy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
+    - [X] Introduction to Docker
+    - [X] Kubernetes Engine: Qwik Start
+    - [X] Orchestrating the Cloud with Kubernetes
+    - [X] Managing Deployments Using Kubernetes Engine
+    - [X] Continuous Delivery with Jenkins in Kubernetes Engine
+    - [X] Deploy to Kuberenetes in Google Cloud: Challenge Lab
